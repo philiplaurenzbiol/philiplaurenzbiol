@@ -1,7 +1,10 @@
-[ReadMe.md](https://github.com/user-attachments/files/30851877/ReadMe.md)
-Hi 👋 My name is Philip
+Hi I'm Philip
 =======================
 
+<p allign="center">
+  <https://giphy.com/gifs/mecha-darling-in-the-franxx-anime-7z6Y18W6Y6KoNRYoIx>
+</p>
+    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/philip.laurenz.baquial.biol) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@dev_pipzskieeee) 
 
